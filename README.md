@@ -1,7 +1,7 @@
 # Site-noticias-da-Cidade
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/xaacke/apresentacao-mentoria/blob/main/LICENSE) 
 
-# Sobre o projeto
+# Sobre o projeto 
 
 https://xaacke.github.io/Site-noticias-da-Cidade/index.html
 
